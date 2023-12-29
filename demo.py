@@ -4,5 +4,5 @@ st.markdown("Types of cats")
 st.write("persian Cat")
 st.image("./kitty.jpg")
 st.write("white Cat")
-st.image("./whitekiitey.jpg")
+st.image("./white cat.jpg")
                    
